@@ -18,17 +18,6 @@ This application tracks your hand movements in real-time, allowing you to paint 
 
 ---
 
-## Demo
-
-| Gesture | Action |
-|---|---|
-| Index finger up | ✏️ Draw |
-| Index + middle finger up | ✋ Stop drawing |
-| `C` key | 🗑️ Clear canvas |
-| `Q` key | 🚪 Quit |
-
----
-
 ## Getting Started
 
 ### Prerequisites
