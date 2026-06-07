@@ -4,7 +4,7 @@ import math
 import numpy as np
 
 drawing= np.zeros((480, 640, 3), dtype=np.uint8)
-hands = mp.solutions.hands.Hands(
+hands = mp.solutions.hands.Hands( #type: ignore 
     min_detection_confidence=0.4,
     min_tracking_confidence=0.4
 )
